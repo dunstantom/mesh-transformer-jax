@@ -29,7 +29,9 @@
     "4chan": "4chan.val.index"
   },
 
+  "eval_harness_tasks": [
 
+  ],
 
   "val_batches": 1,
   "val_every": 500,
